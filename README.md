@@ -169,4 +169,4 @@ conn = cx_Oracle.connect(user, password, dsn)
 
 ---
 
-*Développé pour la DGMN — Météorologie Nationale du Togo · Format WMO CLIDATA*
+*Développé par ALEZA M. Amos pour la DGMN — Météorologie Nationale du Togo · Format WMO CLIDATA*
